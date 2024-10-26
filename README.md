@@ -1,4 +1,4 @@
-# Portfolio Optimization and Asset Allocation Visualization
+# Investment Portfolio Optimization and Risk Allocation Analysis
 
 ## Project Overview 
 ### Objective
