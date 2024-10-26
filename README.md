@@ -7,8 +7,8 @@ This project provides a hands-on approach to optimizing a portfolio of stocks, e
 ### Data Collection
 The historical price data of the selected tickers is collected from Yahoo! Finance for a specified four-year time frame, from 2020-01-01 to 2024-01-01. This data includes daily stock prices, ETFs, and FX spot rates, which are then processed to compute daily returns. The code supports multiple types of tickers, including:
 
-- Stocks (e.g., AAPL, AMZN)
-- ETFs (e.g., VOO, SPY)
+- Stocks (e.g., AAPL, SHOP.TO)
+- ETFs (e.g., VOO, VFV.TO)
 - FX Spot Rates (e.g., JPY=X for Japanese Yen)
 
 ### Financial Models
