@@ -15,13 +15,11 @@ The historical price data of the selected tickers is collected from Yahoo! Finan
 The project utilizes several optimization techniques, including:
 
 - Sharpe Ratio: Maximizes return per unit of risk by considering the excess return
-    Mean-Variance:
+    #### Mean-Variance:
       The Mean-Variance Portfolio theory focuses on the trade-off between risk and return in investment decisions. This approach aims to construct an optimal portfolio by considering   the assets' expected returns (mean) and associated risks (variance). The key concept is the Efficient Frontier, which represents a set of optimal portfolios that offer the highest expected return for a given level of risk. Investors can select portfolios along this frontier based on their risk tolerance.
 
-    Maximum Sharpe Ratio:
-    This is a specific application of the mean-variance optimization framework. It seeks to maximize the Sharpe Ratio, which measures the risk-adjusted return of a portfolio. The Sharpe Ratio is calculated as the difference between the portfolio return and the risk-free rate, divided by the portfolio's standard deviation.
-
-Screenshot 2024-10-23 at 11.01.07 PM.png
+    #### Maximum Sharpe Ratio:
+      This is a specific application of the mean-variance optimization framework. It seeks to maximize the Sharpe Ratio, which measures the risk-adjusted return of a portfolio. The Sharpe Ratio is calculated as the difference between the portfolio return and the risk-free rate, divided by the portfolio's standard deviation.
 
 - Kelly Criterion: Determines the optimal proportion of the portfolio to invest in each asset, aiming to maximize the expected logarithm of wealth
 
