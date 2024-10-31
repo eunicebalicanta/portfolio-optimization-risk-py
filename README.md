@@ -34,6 +34,8 @@ To assess the effectiveness of these models, the portfolio is backtested using a
 
 - Comparison of Models: The portfolio's growth under different optimization strategies (Sharpe Ratio, Kelly, CVaR, Risk Parity) is visualized to identify which model yields the best results
 
+  <img width="931" alt="Screenshot 2024-10-31 at 11 45 43 AM" src="https://github.com/user-attachments/assets/6ad17088-75c6-41d7-8a08-af1b90e0d034">
+
 ### Efficient Frontier Visualization
 The Efficient Frontier represents the set of optimal portfolios offering the highest expected return for a defined level of risk. The visualization uses the mean-variance optimization framework and includes:
 
